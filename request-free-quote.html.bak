@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <!-- Mirrored from www.bhorsoftware.com/request-free-quote.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 24 Nov 2024 14:50:05 GMT -->
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Transportation Management, Logistics Software | logistics management
+      software | warehousing | transportation management | Transport Billing
+      Software, Bhor Software Pvt Ltd </title>
+    <link rel="icon" type="image/png" href="favicon.png">
+    <script async="" src="js/whatsapp.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style type="text/css">
+.auto-style1 {
+	text-align: center;
+	color: #FFFFFF;
+}
+</style>
+  </head>
+  <body class="blurBg-false" style="background-color:#EBEBEB">
+    <!-- Start Formoid form-->
+    <link rel="stylesheet" href="formoid_files/formoid1/formoid-solid-blue.css"
+      type="text/css">
+    <script type="text/javascript" src="formoid_files/formoid1/jquery.min.js"></script>
+    <form class="formoid-solid-blue" style="background-color:#FFFFFF;font-size:14px;font-family:'Roboto',Arial,Helvetica,sans-serif;color:#34495E;max-width:;min-width:150px"
+      method="post">
+      <div class="title" style="left: 0px; top: 0px">
+        <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you would like to request a quote,
+          please fill in the form below.
+        </h2>
+        <p class="auto-style1">One of our representative shall revert back to
+          you at the earliest. All information will be kept strictly
+          confidential and will not be shared with any other company or
+          organization. You can also give us a call on +254701980200<br>
+        </p>
+      </div>
+      <div class="element-name"><label class="title"><span class="required">*</span></label><span
+          class="nameFirst"><input placeholder="Name First" size="8" name="name[first]"
+            required="required" type="text"><span class="icon-place"></span></span><span
+          class="nameLast"><input placeholder="Name Last" size="14" name="name[last]"
+            required="required" type="text"><span class="icon-place"></span></span></div>
+      <div class="element-input"><label class="title"><span class="required">*</span></label>
+        <div class="item-cont"><input class="large" name="input1" required="required"
+            placeholder="Name of your organization" type="text"><span class="icon-place"></span></div>
+      </div>
+      <div class="element-number"><label class="title"><span class="required">*</span></label>
+        <div class="item-cont"><input class="large" min="0" max="10" name="number"
+            required="required" placeholder="Phone Number" value="" type="text"><span
+            class="icon-place"></span></div>
+      </div>
+      <div class="element-email"><label class="title"><span class="required">*</span></label>
+        <div class="item-cont"><input class="large" name="email" value="" required="required"
+            placeholder="Email" type="email"><span class="icon-place"></span></div>
+      </div>
+      <div class="element-select"><label class="title"><span class="required">*</span></label>
+        <div class="item-cont">
+          <div class="large"><span>
+              <select name="select" required="required">
+                <option value="Select Services">Select Services</option>
+                <option value="Financial Accounting Software">Financial
+                  Accounting Software</option>
+                <option value="Transport &amp; Logistics Software">Transport
+                  &amp; Logistics Software</option>
+                <option value="Ship Chandlers &amp; Rigs Suppliers Software">Ship
+                  Chandlers &amp; Rigs Suppliers Software</option>
+                <option value="POS/Retail Software Software">POS/Retail Software
+                  Software</option>
+                <option value="Payroll Software Software">Payroll Software
+                  Software</option>
+                <option value="Society Software">Society Software</option>
+                <option value="Vehicle &amp; Fleet Software">Vehicle &amp; Fleet
+                  Software</option>
+                <option value="Warehouse Management Software">Warehouse
+                  Management Software</option>
+                <option value="Car Rental Software">Car Rental Software</option>
+                <option value="Tours and Travels Software">Tours and Travels
+                  Software</option>
+                <optgroup label="Design Services">
+                  <option value="Web Design">Web Design</option>
+                  <option value="Web Re-Design">Web Re-Design</option>
+                  <option value="Logo Design">Logo Design</option>
+                </optgroup>
+                <optgroup label="Web Development">
+                  <option value="Website Development">Website Development</option>
+                  <option value="Website Re-Development">Website Re-Development</option>
+                  <option value="Website Maintenance">Website Maintenance</option>
+                </optgroup>
+              </select>
+              <i></i><span class="icon-place"></span></span></div>
+        </div>
+      </div>
+      <div class="element-textarea"><label class="title"></label>
+        <div class="item-cont"><textarea class="medium" name="textarea" cols="20"
+rows="5" placeholder="Describe your requirements"></textarea><span class="icon-place"></span></div>
+      </div>
+      <div class="submit"><input value="Submit" type="submit"></div>
+    </form>
+    <p class="frmd"><a href="http://formoid.com/v29.php">javascript form
+        validation</a> Formoid.com 2.9</p>
+    <script type="text/javascript" src="formoid_files/formoid1/formoid-solid-blue.js"></script>
+    <!-- Stop Formoid form-->
+  </body>
+  <!-- Mirrored from www.bhorsoftware.com/request-free-quote.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 24 Nov 2024 14:50:22 GMT -->
+</html>
